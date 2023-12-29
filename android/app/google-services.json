@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598691478791",
+    "project_id": "fir-cc70d",
+    "storage_bucket": "fir-cc70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598691478791:android:b1406468ccc17ae21f99a2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNI5EJRwNi1GvUHFg5Zx2oFpdwZ725It8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
